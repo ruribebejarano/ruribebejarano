@@ -17,11 +17,16 @@
 Soy estudiante de **Ingeniería Electrónica** enfocado en el desarrollo de sistemas embebidos e IoT.  
 Actualmente exploro la integración de **Inteligencia Artificial + Hardware**, aplicando modelos a señales reales (RF, vibración, audio).
 
-💡 Intereses:
+Intereses:
 - Edge AI
-- Sistemas embebidos (ESP32, FreeRTOS)
+- Sistemas embebidos
 - Procesamiento de señales
 - IoT industrial
+
+I’m currently learning ...
+
+Deep Learning
+Procesamiento de Lenguaje Natural
 
 ---
 
