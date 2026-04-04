@@ -27,62 +27,41 @@ Actualmente exploro la integración de **Inteligencia Artificial + Hardware**, a
 
 ## 🧠 Tech Stack
 
-### 🔧 Embedded & Hardware
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red)
+## 🧠 Skills & Nivel
 
-### 💻 Software
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+### 🔧 Embedded Systems
+- ESP-IDF / ESP32        █████████░░ 90%
+- FreeRTOS               ████████░░░ 80%
+- Comunicación (I2C, SPI, UART) █████████░░ 90%
+- C / C++ (Firmware)     █████████░░ 90%
+- ASM                    ████░░░░░░ 40%
+
+---
+
+### ⚡ Hardware Design
+- Altium Designer        ████████░░░ 80%
+- EasyEDA                ███████░░░░ 70%
+
+---
+
+### 💻 Software & Tools
+- Python                 ████████░░░ 80%
+- Docker                 ███████░░░░ 70%
+- Git / GitHub           ████████░░░ 80%
+- n8n (Automation)       ██████░░░░░ 60%
+
+---
+
+### 🌐 Web
+- HTML / CSS             ███████░░░░ 70%
+- JavaScript             ██████░░░░░ 60%
+
+---
 
 ### 🤖 AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue)
-
----
-
-## 🔥 Proyectos Destacados
-
-### 🚦 Sistema Semafórico Inteligente
-- Control de 12–16 intersecciones
-- Comunicación inalámbrica + GPS
-- Firmware en C/C++
-- Protocolos industriales
-
----
-
-### 📡 Red de Sensores para Detección de Vibraciones
-- ESP32 + procesamiento de señales
-- Detección temprana de fallas
-- Alertas en tiempo real
-
----
-
-### 🏠 IoT con Matter + ESP-IDF
-- Integración con Home Assistant
-- Docker + arquitectura distribuida
-- Comunicación segura IoT
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-</p>
-
----
+- Machine Learning       ███████░░░░ 70%
+- TensorFlow / Sklearn   ██████░░░░░ 60%
+--
 
 ## 🎯 Objetivo
 
