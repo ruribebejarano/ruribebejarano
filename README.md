@@ -26,44 +26,22 @@ Actualmente exploro la integración de **Inteligencia Artificial + Hardware**, a
 ---
 
 ## 🧠 Tech Stack
+## 🧠 Skills
 
-## 🧠 Skills & Nivel
+### Embedded
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-Advanced-red)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Intermediate-orange)
+![C/C++](https://img.shields.io/badge/C%2FC++-Advanced-blue)
 
-### 🔧 Embedded Systems
-- ESP-IDF / ESP32        █████████░░ 90%
-- FreeRTOS               ████████░░░ 80%
-- Comunicación (I2C, SPI, UART) █████████░░ 90%
-- C / C++ (Firmware)     █████████░░ 90%
-- ASM                    ████░░░░░░ 40%
+### Hardware
+![Altium](https://img.shields.io/badge/Altium-Intermediate-green)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-Intermediate-green)
 
----
-
-### ⚡ Hardware Design
-- Altium Designer        ████████░░░ 80%
-- EasyEDA                ███████░░░░ 70%
-
----
-
-### 💻 Software & Tools
-- Python                 ████████░░░ 80%
-- Docker                 ███████░░░░ 70%
-- Git / GitHub           ████████░░░ 80%
-- n8n (Automation)       ██████░░░░░ 60%
-
----
-
-### 🌐 Web
-- HTML / CSS             ███████░░░░ 70%
-- JavaScript             ██████░░░░░ 60%
-
----
-
-### 🤖 AI / Data
-- Machine Learning       ███████░░░░ 70%
-- TensorFlow / Sklearn   ██████░░░░░ 60%
---
-
+### AI
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Intermediate-yellow)
 ## 🎯 Objetivo
+
+--
 
 Construir soluciones donde **hardware + IA trabajen juntos** para resolver problemas reales.
 
