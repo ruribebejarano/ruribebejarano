@@ -26,59 +26,50 @@ Actualmente exploro la integración de **Inteligencia Artificial + Hardware**, a
 ---
 
 ## My Skills Include
-## 🧠 Skills
+## Skills
 
-### 🔧 Embedded & IoT
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-Advanced-red)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Intermediate-orange)
-![Arduino](https://img.shields.io/badge/Arduino-Advanced-blue)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-Intermediate-orange)
-![ESP32](https://img.shields.io/badge/ESP32-Advanced-red)
-![Firmware C/C++](https://img.shields.io/badge/Firmware-C%2FC++-Advanced-blue)
-![Protocols](https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART-Advanced-green)
+### Embedded & IoT
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
 
----
+### Communication Protocols
+![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
 
-### ⚡ Hardware Design
-![Altium Designer](https://img.shields.io/badge/Altium-Intermediate-green)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-Intermediate-green)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-Intermediate-blue)
+### Hardware Design
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
 
----
+### Software & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 💻 Software & Tools
-![Python](https://img.shields.io/badge/Python-Advanced-yellow)
-![Git](https://img.shields.io/badge/Git-Advanced-black)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
-![VS Code](https://img.shields.io/badge/VSCode-Advanced-blue)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+### Web & Databases
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### AI / Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
-
----
-
-### 🤖 AI / Data Science
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-yellow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Intermediate-black)
-![NumPy](https://img.shields.io/badge/NumPy-Intermediate-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Intermediate-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-Intermediate-lightblue)
-
----
-
-### ⚙️ Otros
-![Assembly](https://img.shields.io/badge/Assembly-Basic-lightgrey)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-black)
-![Networking](https://img.shields.io/badge/Networking-Basic-lightgrey)
-
+### Other
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 --
 
 Construir soluciones donde **hardware + IA trabajen juntos** para resolver problemas reales.
