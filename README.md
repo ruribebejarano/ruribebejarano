@@ -23,14 +23,14 @@ Intereses:
 - Procesamiento de señales
 - IoT industrial
 
-I’m currently learning ...
+Actualmente me encuentro aprendiendo sobre ...
 
+Web Scrapping
 Deep Learning
 Procesamiento de Lenguaje Natural
 
 ---
 
-## My Skills Include
 ## Skills
 
 ### Embedded & IoT
@@ -41,6 +41,13 @@ Procesamiento de Lenguaje Natural
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
+
+### Communication & Connectivity
+![WiFi](https://img.shields.io/badge/WiFi-000000?style=for-the-badge&logo=wifi&logoColor=white)
+![WiFi Mesh](https://img.shields.io/badge/WiFi%20Mesh-000000?style=for-the-badge)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00A8E1?style=for-the-badge)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge)
 
 ### Communication Protocols
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
@@ -72,12 +79,12 @@ Procesamiento de Lenguaje Natural
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Other
+### Languages & Others
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
---
-
-Construir soluciones donde **hardware + IA trabajen juntos** para resolver problemas reales.
 
 ---
 
