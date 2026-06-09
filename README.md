@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería Electrónica** enfocado en el desarrollo de sistemas embebidos e IoT.  
 Actualmente exploro la integración de **Inteligencia Artificial + Hardware**, aplicando modelos a señales reales (RF, vibración, audio).
