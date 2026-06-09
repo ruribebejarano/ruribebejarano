@@ -25,9 +25,9 @@ Intereses:
 
 Actualmente me encuentro aprendiendo sobre ...
 
-Web Scrapping
-Deep Learning
-Procesamiento de Lenguaje Natural
+- Web Scrapping
+- Deep Learning
+- Procesamiento de Lenguaje Natural
 
 ---
 
